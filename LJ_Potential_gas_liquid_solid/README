@@ -1,3 +1,3 @@
 Generating system of 1000 argon atoms in gas, liquid, and solid.
 Generating data files for 3D plots of the configuration of the system.
-Calculating and plotting Lennard-Jones potential for gas and solid.
+Code calculates Lennard-Jones potential for gas and solid.
