@@ -1,0 +1,5 @@
+Periodic boundary condition implemented.
+Radial distribution function for solid and liquid plotted.
+Code calculates LJ potential without and with trucation and shift at rcut = 2 and 3.5 sigma.
+Lennard-Jones potential penalty computed as %.
+LJ and truncated & shifted LJ potentials plotted on the same figure.
