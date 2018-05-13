@@ -30,7 +30,7 @@
 
 ! 1000 atoms in a cube means 10 x 10 x 10 atoms on the "lines" of the cube
 ! Thus atom spacing is:
-	l = box_dim_Ang/10.0
+	l = box_dim_Ang/9.0
 	
 ! Generating coordinates
 
