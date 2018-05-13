@@ -1,0 +1,5 @@
+Simulaton of 1000 argon atoms in 85K, staring from a lattice.
+50ps, periodic boundary condition, leap frog algorithm, 5fs integration step.
+Code generates data files for initial velocities histogram (total & by xyz components),
+Radial distribution function averaged over the last 1000 simulation steps,
+and energies (kinetic, potential, total) of the system over the simulation.
