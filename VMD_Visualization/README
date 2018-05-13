@@ -1,0 +1,4 @@
+50ps simulation of 1000 argon atoms in 85K starting from crystal lattice.
+Includes periodic boundary condition and uses leap-frog algorithm.
+Code generates .xyz file with coordinates every 250fs.
+Video created in VMD with MovieMaker plugin.
